@@ -10,6 +10,9 @@
     
 <?php if( true ): ?>
     <p>hello</p>
+    <div>
+        <h1>World</h1>
+    </div>
 <?php endif; ?>
 
 </body>
