@@ -7,7 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-<?= 'Привет' ?>
+    
+<?php if( true ): ?>
+    <p>hello</p>
+<?php endif; ?>
 
 </body>
 </html>
