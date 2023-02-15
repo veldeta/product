@@ -10,7 +10,6 @@
     
 <?php if( true ): ?>
     <p>hello</p>
-    <p>hello</p>
 <?php endif; ?>
 
 </body>
