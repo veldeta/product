@@ -1,0 +1,14 @@
+{
+    "name": "slava/test",
+    "authors": [
+        {
+            "name": "Slava",
+            "email": "terminatorslava38@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7",
+        "ext-json": "*",
+        "twig/twig": "^3.5"
+    }
+}
